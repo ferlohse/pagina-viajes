@@ -1,0 +1,39 @@
+#t {
+    margin-top:4em;
+}
+
+#tarjetas {
+    
+    margin-right: 3em; 
+}
+#C {
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+#login {
+    background-color: #f7719396;
+    color: white;
+    margin-top: 50px;
+    left: 0em;
+}
+
+#footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#R {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.fa-twitter,
+.fa-facebook-f,
+.fa-instagram {
+    font-size: 2em;
+}
+
+.fa-facebook-f {
+    margin-left: 15px;
+    margin-right: 15px;
+}
